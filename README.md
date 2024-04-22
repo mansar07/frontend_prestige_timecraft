@@ -1,2 +1,2 @@
 # frontend_prestige_timecraft
-Basic HTML/CSS/JavaScript webpage for a concept watch store
+HTML/CSS/JavaScript webpage for a concept watch store for learning front end fundamentals
